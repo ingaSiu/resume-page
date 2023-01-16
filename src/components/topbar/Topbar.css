@@ -1,0 +1,11 @@
+.nav-wrapper {
+  background-color: darkolivegreen;
+  padding: 30px;
+  display: flex;
+  justify-content: space-around;
+}
+.nav {
+  display: flex;
+  gap: 30px;
+  cursor: pointer;
+}
