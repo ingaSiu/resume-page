@@ -1,10 +1,11 @@
 import Topbar from '../components/topbar/Topbar.js';
 
-const Contacts = () => {
+const AboutMe = () => {
   return (
     <div>
       <Topbar />
     </div>
   );
 };
-export default Contacts;
+
+export default AboutMe;
