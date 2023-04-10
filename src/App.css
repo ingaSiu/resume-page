@@ -1,0 +1,6 @@
+.App {
+  background: rgb(34, 193, 195);
+  background: linear-gradient(90deg, rgba(34, 193, 195, 1) 9%, rgba(232, 168, 231, 1) 44%, rgba(148, 195, 34, 1) 91%);
+  width: 100vw;
+  height: 100vh;
+}
