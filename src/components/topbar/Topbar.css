@@ -1,6 +1,6 @@
 .nav-wrapper {
-  background-color: darkolivegreen;
-  padding: 30px;
+  background-color: whitesmoke;
+  padding: 15px;
   display: flex;
   justify-content: space-around;
 }
@@ -8,4 +8,5 @@
   display: flex;
   gap: 30px;
   cursor: pointer;
+  font-size: 30px;
 }
