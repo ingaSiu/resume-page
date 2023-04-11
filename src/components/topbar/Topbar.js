@@ -8,7 +8,8 @@ const Topbar = () => {
     <div className="nav-wrapper">
       <nav className="nav">
         <div onClick={() => navigate('/')}>Home</div>
-        <div onClick={() => navigate('contacts')}>Contact me</div>
+        <div onClick={() => navigate('/contacts')}>Contacts</div>
+        <div onClick={() => navigate('/about')}>About me</div>
       </nav>
     </div>
   );
